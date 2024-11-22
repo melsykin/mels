@@ -40,8 +40,8 @@ const Home = () => {
             <div className="w-32 h-32 mx-auto bg-gradient-to-tr from-magic-pink via-magic-purple to-magic-cyan p-1 rounded-full">
               <div className="w-full h-full rounded-full overflow-hidden">
                 <img 
-                  src="/profile.jpg" 
-                  alt="Mels"
+                  src="https://i.imgur.com/j2nEZC1.jpeg" 
+                  alt="mels"
                   className="w-full h-full object-cover"
                 />
               </div>
